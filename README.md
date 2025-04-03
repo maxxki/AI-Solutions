@@ -8,11 +8,6 @@ Falls Sie ein maßgeschneidertes Automatisierungs-Konzept möchten, initiieren S
 
 Es ist ebenfalls eine Milestone-Realisierung auf Honorarbasis oder zum Fixpreis möglich.
 
--MedVisionGmbH
--DataTechAG
--Aquaculture e.V
--GreenLogisticGmbH
--IndustrieWerkeAG
 
 
 Maximilian Kiefer 
@@ -27,4 +22,31 @@ Maximilian Kiefer
 #KI-Beratung
 #KI-Consulting
 #QuantumSynergie
+#Blockchain
+#quantum 
+#agile 
+#devops 
+#AI 
+#web3 
+#metaverse 
+#cloud-native 
+#serverless IoT 
+#machine_learning 
+#deep_learning 
+#neural_networks 
+#crypto_enthusiast 
+#industry_4_0 
+#lean_startup 
+#big_data 
+#SaaS 
+#PaaS 
+#IaaS 
+#cyber_security 
+#growth_hacking 
+#scalability 
+#unicorn_mindset 
+#phygital 
+#omnichannel 
+#disruptive 
+#fintech
 
