@@ -26,5 +26,5 @@ Maximilian Kiefer
 #AI-Generative Manager 
 #KI-Beratung
 #KI-Consulting
-
+#QuantumSynergie
 
