@@ -8,6 +8,11 @@ Falls Sie ein maßgeschneidertes Automatisierungs-Konzept möchten, initiieren S
 
 Es ist ebenfalls eine Milestone-Realisierung auf Honorarbasis oder zum Fixpreis möglich.
 
+-MedVision 
+-Datatech
+-Aquaculture
+-GreenLogistics
+
 
 Maximilian Kiefer 
 
