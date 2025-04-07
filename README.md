@@ -1,3 +1,7 @@
+Beispielhaft:
+
+https://maxxki.github.io/AI-Solutions/panel.html
+
 # AI-Solutions
 
 Hier zeige ich meine kreativen Fähigkeiten, 
