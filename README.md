@@ -4,15 +4,12 @@ https://maxxki.github.io/AI-Solutions/panel.html
 
 # AI-Solutions
 
-Hier zeige ich meine kreativen Fähigkeiten, 
-ebenso meine technische und überragende Expertise, 
-als modulare Lösungen und Beispiele, die durch KI gestützte Analyse des gängigen Usus nach Best practise bewertet werden.
+Hier zeige ich meine professionellen Fähigkeiten, 
+die meine technische und überragende Expertise in KI- Lösungen verifizieren.
 
 Falls Sie ein maßgeschneidertes Automatisierungs-Konzept möchten, initiieren Sie einfach eine Projektberatung mit Mir und ich setze das für Sie um. 
 
 Es ist ebenfalls eine Milestone-Realisierung auf Honorarbasis oder zum Fixpreis möglich.
-
-
 
 Maximilian Kiefer 
 
@@ -53,4 +50,8 @@ Maximilian Kiefer
 #omnichannel 
 #disruptive 
 #fintech
-
+#QLM
+#LLM
+#RAG
+#ERP
+#CRM
