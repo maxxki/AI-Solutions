@@ -36,11 +36,12 @@ Maximilian Kiefer
 #deep_learning 
 #neural_networks 
 #crypto_enthusiast 
-#industry_4_0 
+#industry_4.20
 #lean_startup 
 #big_data 
 #SaaS 
 #PaaS 
+#LLMMM-KI
 #IaaS 
 #cyber_security 
 #growth_hacking 
